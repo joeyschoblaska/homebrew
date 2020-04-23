@@ -1,4 +1,4 @@
-class ApacheArrowGlib < Formula
+class ApacheArrowGlibAT0160 < Formula
   desc "GLib bindings for Apache Arrow"
   homepage "https://arrow.apache.org/"
   url "https://www.apache.org/dyn/closer.lua?path=arrow/arrow-0.16.0/apache-arrow-0.16.0.tar.gz"
